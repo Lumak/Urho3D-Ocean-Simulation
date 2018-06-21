@@ -1,0 +1,9 @@
+<material>
+    <technique name="Techniques/TerrainBlend.xml" />
+    <texture unit="0" name="Ocean/TerrainWeightsGeneric.png" />
+    <texture unit="1" name="Ocean/terraindetail_dirt.jpg" />
+    <texture unit="2" name="Ocean/terraindetail_patchy.png" />
+    <texture unit="3" name="Ocean/terraindetail_rock.png" />
+    <parameter name="MatSpecColor" value="0 0 0 16" />
+    <parameter name="DetailTiling" value="32 32" />
+</material>
